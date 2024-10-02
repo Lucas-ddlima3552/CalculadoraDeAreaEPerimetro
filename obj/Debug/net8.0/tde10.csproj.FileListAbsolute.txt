@@ -1,0 +1,14 @@
+C:\Users\55519\Desktop\ulbra\Semestre_2\laboratório de programacao\tde10\obj\Debug\net8.0\tde10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55519\Desktop\ulbra\Semestre_2\laboratório de programacao\tde10\obj\Debug\net8.0\tde10.AssemblyInfoInputs.cache
+C:\Users\55519\Desktop\ulbra\Semestre_2\laboratório de programacao\tde10\obj\Debug\net8.0\tde10.AssemblyInfo.cs
+C:\Users\55519\Desktop\ulbra\Semestre_2\laboratório de programacao\tde10\obj\Debug\net8.0\tde10.csproj.CoreCompileInputs.cache
+C:\Users\55519\Desktop\ulbra\Semestre_2\laboratório de programacao\tde10\bin\Debug\net8.0\tde10.exe
+C:\Users\55519\Desktop\ulbra\Semestre_2\laboratório de programacao\tde10\bin\Debug\net8.0\tde10.deps.json
+C:\Users\55519\Desktop\ulbra\Semestre_2\laboratório de programacao\tde10\bin\Debug\net8.0\tde10.runtimeconfig.json
+C:\Users\55519\Desktop\ulbra\Semestre_2\laboratório de programacao\tde10\bin\Debug\net8.0\tde10.dll
+C:\Users\55519\Desktop\ulbra\Semestre_2\laboratório de programacao\tde10\bin\Debug\net8.0\tde10.pdb
+C:\Users\55519\Desktop\ulbra\Semestre_2\laboratório de programacao\tde10\obj\Debug\net8.0\tde10.dll
+C:\Users\55519\Desktop\ulbra\Semestre_2\laboratório de programacao\tde10\obj\Debug\net8.0\refint\tde10.dll
+C:\Users\55519\Desktop\ulbra\Semestre_2\laboratório de programacao\tde10\obj\Debug\net8.0\tde10.pdb
+C:\Users\55519\Desktop\ulbra\Semestre_2\laboratório de programacao\tde10\obj\Debug\net8.0\tde10.genruntimeconfig.cache
+C:\Users\55519\Desktop\ulbra\Semestre_2\laboratório de programacao\tde10\obj\Debug\net8.0\ref\tde10.dll
